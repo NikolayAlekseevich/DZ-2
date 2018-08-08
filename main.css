@@ -1,0 +1,75 @@
+html {
+	padding: 25px 75px;
+	background-color: #66B1E0FF;
+	transition: all 0.5s ease-in;
+}
+body {
+	font-family: sans-serif;
+	padding: 25px 105px;
+	background-color: #fff;
+	font-family: 'Roboto', sans-serif;
+	transition: all 0.5s ease-in;
+}
+
+h1 h2 h3 {
+	font-family: 'Roboto Slab', serif;
+}
+
+h1{
+	color:#094FCBFF;
+}
+
+img {
+	max-width: 100%;
+}
+
+p {
+	color: #444;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+a {
+	color: #03a9f4;
+}
+
+a:hover {
+	color: #ff5722;
+}
+
+.button {
+	text-align: right;
+}
+
+.night {
+	background-color: #7f848a;
+}
+
+.night body {
+	background-color: #252a31;
+	color: white;
+}
+.night p {
+	color: #7f848a;
+}
+
+.night h1 {
+	color: #2daa99;
+}
+.night a {
+	color: #2daa99;
+}
+.night i {
+	color: #48D2FF;
+}
+.night a:hover {
+	color: red;
+}
+#2daa99
+#252a31
+#101217
+#575965
+#7f848a
+#485054
+#8e9399
+#fffff9
